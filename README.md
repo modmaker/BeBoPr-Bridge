@@ -1,5 +1,4 @@
 ## BeBoPr-Bridge
-================
 
 > 2013-08-11 Revision 1 boards are now available. Smaller in size, larger pads for the wires, 
 better readable legend. Still having gold finish for easy soldering. Transfer EUR 8.50 with 
